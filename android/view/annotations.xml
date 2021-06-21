@@ -1,0 +1,9 @@
+<root>
+    <item name='android.view.InflateException'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item
+        name='android.view.LayoutInflater android.view.LayoutInflater from(android.content.Context)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
